@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/118522350/221333107-6afbdaeb-724c-446d-819f-e568d41235b1.jpg)
 
 <h1 align="center">Hi 👋, I'm Noufal AS</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
