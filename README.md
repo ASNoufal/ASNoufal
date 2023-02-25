@@ -1,9 +1,11 @@
+![MasterHead](https://user-images.githubusercontent.com/118522350/221333107-6afbdaeb-724c-446d-819f-e568d41235b1.jpg)
+
 <h1 align="center">Hi 👋, I'm Noufal AS</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asnoufal&label=Profile%20views&color=0e75b6&style=flat" alt="asnoufal" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=asnoufal" alt="asnoufal" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter development**
 
