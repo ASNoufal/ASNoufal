@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asnoufal" alt="asnoufal" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=asnoufal" alt="asnoufal" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter development**
 
